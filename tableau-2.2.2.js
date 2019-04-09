@@ -9728,4 +9728,4 @@ tab._ApiBootstrap.initialize();
 window.tableau._apiLoaded = true;
 })();
 
-module.export = global.tableauSoftware;
+module.export = tableauSoftware;
