@@ -4,7 +4,7 @@
   "description": "Tableau JavaScript API wrapped as an NPM module.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cmtoomey/tableau-api.git"
+    "url": "https://github.com/jmai00/tableau-api.git"
   },
-  "main": "index.js"
+  "main": "tableau-2.2.2.min.js"
 }
